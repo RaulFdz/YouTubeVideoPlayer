@@ -1,1 +1,1 @@
-YouTube Video Player - Colorbox  a jQuery lightbox
+YouTube Video Player - Colorbox  in QlikView
